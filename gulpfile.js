@@ -9,17 +9,6 @@ const plumber = require('gulp-plumber'); // Xatoliklarni qayerda ekanigini korsa
 const sourcemaps = require('gulp-sourcemaps'); // Css Xarita Yaratish
 const less = require('gulp-less');
 
-
-
-    
-
-
-
-
-
-
-
-
 gulp.task('style', style)
 
 function style (){
